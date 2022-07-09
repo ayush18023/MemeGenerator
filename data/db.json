@@ -1,0 +1,16 @@
+{
+    "blogs":[
+        {
+            "title":"My Blog",
+            "description":"this is my blog ka desc"
+            ,"author":"Ayush",
+            "id":1
+        },
+        {
+            "title":"your Blog",
+            "description":"this is your blog ka desc"
+            ,"author":"Yash",
+            "id":2
+        }
+    ]
+}

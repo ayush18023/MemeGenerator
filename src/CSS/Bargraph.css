@@ -1,0 +1,30 @@
+.boxx{
+                    
+    width:500px;
+    height:300px;
+    border:2px solid black;
+    display: flex;
+    align-items: flex-end;
+    position: relative;
+    left:40px;
+    
+}
+.zero{
+    position: relative;
+    top: 347px;
+    padding-left: 10px;
+}
+.half{
+    position: relative;
+    top: 192px ;
+    padding-left: 5px;
+}
+.full{
+    position: relative;
+    top: 32px;
+}
+/* .bar1{
+    width:30px;
+    height: 100px;
+    background-color:blue;
+} */

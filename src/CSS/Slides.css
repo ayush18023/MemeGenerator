@@ -1,0 +1,22 @@
+#slide_1{
+    background-color: hsl(41, 74%, 60%);
+    height: 200px;
+    display: flex;
+    align-items: center;
+}
+#slide_1 img{
+    padding-left: 100px;
+}
+#slide_2{
+    background-color:hsl(200, 30%, 75%) ;
+    height: 200px;
+    display: flex;
+    align-items: center;
+}
+.arrow{
+    width: 25px;
+    color: white;
+}
+#ra{
+    justify-content: flex-end;
+}
